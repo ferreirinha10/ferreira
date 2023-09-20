@@ -15,5 +15,5 @@ Sou um estudante de programação, cursando desenvolvimento de software no CEPM 
   <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="gabriel-php" height="55" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-plain.svg">
- <img align="center" alt="gabriel-mysql" src="https://github.com/ferreirinha10/ferreirinha10/assets/119629224/ece83e1c-f54d-4f26-b409-e333c0bfe148">
+ <img align="center" alt="gabriel-mysql" src="https://github.com/joao-biondi/joao-biondi/assets/119629224/ece83e1c-f54d-4f26-b409-e333c0bfe148">
 </div><br/>
