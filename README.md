@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gabriel Ferreira 🖐️
-Sou um estudante de programação, cursando desenvolvimento de software no CEPM ( Colégio Estadual Pedro Macedo ) Pretendo trabalhar como desenvolvedor front-end e web e estou estudando algumas tecnologias que estão abaixos! Nova alteração
+Sou um estudante de programação, cursando desenvolvimento de software no CEPM ( Colégio Estadual Pedro Macedo ) Pretendo trabalhar como desenvolvedor front-end e web e estou estudando algumas tecnologias que estão abaixos!
 <br><br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541998731154)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-a10315218/)
@@ -8,7 +8,7 @@ Sou um estudante de programação, cursando desenvolvimento de software no CEPM 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreirinha10&show_icons=true&theme=dracula&count_private=true)
 ![Gabriel GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirinha10&theme=blue-green)
 
-## Tecnologias que eu estou estudando! ALem das que eu ja 
+## Tecnologias que eu estou estudando!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
