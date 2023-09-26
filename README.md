@@ -8,7 +8,7 @@ Sou um estudante de programação, cursando desenvolvimento de software no CEPM 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreirinha10&show_icons=true&theme=dracula&count_private=true)
 ![Gabriel GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirinha10&theme=blue-green)
 
-## Tecnologias que eu estou estudando!
+## Tecnologias que eu estou estudando! ALem das que eu ja sei
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
